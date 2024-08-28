@@ -1,3 +1,4 @@
+-- link : https://github.com/oblerion/ZeroBrane-Studio-with-TIC-80
 local win = ide.osname == "Windows"
 local mac = ide.osname == "Macintosh"
 local api = {}
